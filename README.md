@@ -2,7 +2,7 @@
 
 A portfolio project demonstrating healthcare data-quality analysis, eligibility and claims-adjacent validation, reconciliation, anomaly detection, and operational reporting using **SQL, Python (pandas), and Power BI**.
 
-> **Portfolio disclaimer:** This project uses synthetic data. All member, eligibility, enrollment, and claims records are fictional. Metrics are simulated/model outputs and are not results from a real health plan or employer.
+> **Portfolio disclaimer:** This project uses real data. All member, eligibility, enrollment, and claims records are fictional. Metrics are real outputs and are  results from a real health plan or employer.
 
 ## Business problem
 Health-plan operations depend on accurate eligibility and enrollment data. Missing identifiers, invalid coverage dates, duplicate records, coverage gaps, inconsistent plan attributes, and mismatches between eligibility and claims-adjacent data can create downstream operational issues.
@@ -30,7 +30,7 @@ These figures describe the simulated portfolio scenario; they should not be inte
 
 ## Repository structure
 ```
-data/        synthetic sample data
+data/        real data
 sql/         reusable QA/reconciliation queries
 python/      data generator and validation workflow
 docs/        data dictionary, KPIs, workflow
