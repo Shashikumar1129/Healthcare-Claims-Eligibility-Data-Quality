@@ -1,0 +1,6 @@
+claim_id,member_id,service_date,claim_amount,claim_status
+C10001,M00001,2026-06-15,245.50,Paid
+C10002,M00002,2026-07-10,1120.00,Paid
+C10003,M00003,2026-04-20,85.25,Pending
+C10004,M99999,2026-08-01,430.00,Denied
+C10005,M00001,2027-01-15,150.00,Pending
